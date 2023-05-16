@@ -2,6 +2,8 @@
 
 <img align="center" src="Screenshot 2023-05-14 201905.png" alt="HUD Preview" width="100%" />
 
+<img align="center" src="Screenshot(8).png" alt="Health Mana Paths" width="100%" />
+
 This is a simple RPG character design of a Character named Arya.
 It uses a power system named mana which is responsible for the execution of her skills. Each skill will use some mana which means mana is important to perform each and every skill.
 Arya has 2 skils which includes one Heal skill which increases her health and a Projectile attack which destroys the enemy in three hits.
